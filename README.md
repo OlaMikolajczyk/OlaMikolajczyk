@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <img src="https://github.com/OlaMikolajczyk/OlaMikolajczyk/blob/main/Banner.png"/>
 
 ### <div align="left">I'm a 2nd year Information Technology student at Lodz University of Technology 🌞</div>  
