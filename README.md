@@ -1,11 +1,13 @@
 
 <img src="https://github.com/OlaMikolajczyk/OlaMikolajczyk/blob/main/Banner.png"/>
 
-### <div align="left">I'm a 2nd year Information Technology student at Lodz University of Technology 🌞</div>  
+### <div align="left">I'm an Information Technology and Data Science student at TUL! 🌞</div>  
   
-- 🌱 I am currently learning TypeScript and React  
+- 🌱 I am currently learning and gaining experience in TypeScript and React  
   
-- ❣️ I am interested most in WebDev and UX/UI  
+- ❣️ I am interested mostly in WebDev and UX/UI
+
+- 🔭 I am gaining experience in Data Science
 
 
 
